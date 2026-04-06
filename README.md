@@ -25,6 +25,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________
 📌 Journey Snapshot
 
+
 🚀 I learn by building new and different projects
 🌐 I explore and use open-source resources to improve
 ⚛️ Currently focusing on React and API Integration
@@ -39,6 +40,7 @@ ________________________________________________________________________________
 </p>
 _____________________________________________________________________________________________________________________________
 🙌 Thanks for Visiting
+
 
 ✨ Thanks for checking out my profile!
 I’m always open to learning, collaborating, and building amazing projects.
