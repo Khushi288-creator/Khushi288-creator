@@ -6,10 +6,15 @@ Aspiring Full Stack Developer | Tech Learner | Passionate Builder 🚀
 _____________________________________________________________________________________________________________________________
 👩‍💻 About Me
 
+
 🎓 I am currently learning multiple programming languages and technologies
+
 💡 Building projects to improve my skills
+
 🔍 Exploring different domains to become a strong developer
+
 🌱 My goal is to become a Full Stack Developer
+
 🚀 I believe in learning by doing and continuously improving
 _____________________________________________________________________________________________________________________________
 🛠 Tech Stack
@@ -24,6 +29,7 @@ ________________________________________________________________________________
 </p>
 _____________________________________________________________________________________________________________________________
 📌 Journey Snapshot
+
 
 
 🚀 I learn by building new and different projects
