@@ -1,15 +1,22 @@
 👋 Hi there!,I'm Khushi
+_____________________________________________________________________________________________________________________________
+
 💡 Tagline
 Aspiring Full Stack Developer | Tech Learner | Passionate Builder 🚀
+_____________________________________________________________________________________________________________________________
 
 👩‍💻 About Me
+_____________________________________________________________________________________________________________________________
 🎓 I am currently learning multiple programming languages and technologies
 💡 Building projects to improve my skills
 🔍 Exploring different domains to become a strong developer
 🌱 My goal is to become a Full Stack Developer
 🚀 I believe in learning by doing and continuously improving
 
+_____________________________________________________________________________________________________________________________
+
 🛠 Tech Stack
+_____________________________________________________________________________________________________________________________
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -19,6 +26,8 @@ Aspiring Full Stack Developer | Tech Learner | Passionate Builder 🚀
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
+
+_____________________________________________________________________________________________________________________________
 
 
 
