@@ -27,8 +27,11 @@ ________________________________________________________________________________
 
 
 🚀 I learn by building new and different projects
+
 🌐 I explore and use open-source resources to improve
+
 ⚛️ Currently focusing on React and API Integration
+
 📈 Constantly upgrading my skills step by step
 _____________________________________________________________________________________________________________________________
 🌐 Connect with Me
