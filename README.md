@@ -1,11 +1,9 @@
 👋 Hi there!,I'm Khushi
 _____________________________________________________________________________________________________________________________
-
 💡 Tagline
 
 Aspiring Full Stack Developer | Tech Learner | Passionate Builder 🚀
 _____________________________________________________________________________________________________________________________
-
 👩‍💻 About Me
 
 🎓 I am currently learning multiple programming languages and technologies
@@ -14,8 +12,8 @@ ________________________________________________________________________________
 🌱 My goal is to become a Full Stack Developer
 🚀 I believe in learning by doing and continuously improving
 _____________________________________________________________________________________________________________________________
-
 🛠 Tech Stack
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -25,7 +23,6 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 _____________________________________________________________________________________________________________________________
-
 📌 Journey Snapshot
 
 🚀 I learn by building new and different projects
@@ -33,7 +30,6 @@ ________________________________________________________________________________
 ⚛️ Currently focusing on React and API Integration
 📈 Constantly upgrading my skills step by step
 _____________________________________________________________________________________________________________________________
-
 🌐 Connect with Me
 
 <p>
@@ -43,7 +39,6 @@ ________________________________________________________________________________
   
 </p>
 _____________________________________________________________________________________________________________________________
-
 🙌 Thanks for Visiting
 
 ✨ Thanks for checking out my profile!
