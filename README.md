@@ -7,7 +7,6 @@ Aspiring Full Stack Developer | Tech Learner | Passionate Builder 🚀
 _____________________________________________________________________________________________________________________________
 
 👩‍💻 About Me
-_____________________________________________________________________________________________________________________________
 🎓 I am currently learning multiple programming languages and technologies
 💡 Building projects to improve my skills
 🔍 Exploring different domains to become a strong developer
@@ -17,8 +16,6 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________
 
 🛠 Tech Stack
-_____________________________________________________________________________________________________________________________
-
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
