@@ -13,7 +13,6 @@ ________________________________________________________________________________
 🔍 Exploring different domains to become a strong developer
 🌱 My goal is to become a Full Stack Developer
 🚀 I believe in learning by doing and continuously improving
-
 _____________________________________________________________________________________________________________________________
 
 🛠 Tech Stack
@@ -25,30 +24,32 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
-
 _____________________________________________________________________________________________________________________________
+
 📌 Journey Snapshot
 
 🚀 I learn by building new and different projects
 🌐 I explore and use open-source resources to improve
 ⚛️ Currently focusing on React and API Integration
 📈 Constantly upgrading my skills step by step
-
 _____________________________________________________________________________________________________________________________
+
 🌐 Connect with Me
 
-📧 Email: <a href="mailto:trivedikhushi510@gmail.com">📧 Email</a>
-
-💼 LinkedIn: https://www.linkedin.com/in/khushi-trivedi-485092323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
+<p>
+  <a href="mailto:trivedikhushi510@gmail.com"> 📧 Email </a>
+  <a href="https://www.linkedin.com/in/khushi-trivedi-485092323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> 💼 LinkdIn </a>
+  
+</p>
 _____________________________________________________________________________________________________________________________
+
 🙌 Thanks for Visiting
 
 ✨ Thanks for checking out my profile!
 I’m always open to learning, collaborating, and building amazing projects.
 Let’s connect and grow together 🚀
+____________________________________________________________________________________________________________________________
 
-_____________________________________________________________________________________________________________________________
 💭 Quote
 
 ✨ "I don't stop when it's hard, I stop when it's done."
