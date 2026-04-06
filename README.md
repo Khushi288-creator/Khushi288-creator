@@ -38,6 +38,7 @@ ________________________________________________________________________________
 🌐 Connect with Me
 
 📧 Email: <a href="mailto:trivedikhushi510@gmail.com">📧 Email</a>
+
 💼 LinkedIn: https://www.linkedin.com/in/khushi-trivedi-485092323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 _____________________________________________________________________________________________________________________________
