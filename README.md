@@ -7,6 +7,7 @@ Aspiring Full Stack Developer | Tech Learner | Passionate Builder 🚀
 _____________________________________________________________________________________________________________________________
 
 👩‍💻 About Me
+
 🎓 I am currently learning multiple programming languages and technologies
 💡 Building projects to improve my skills
 🔍 Exploring different domains to become a strong developer
@@ -26,6 +27,29 @@ ________________________________________________________________________________
 </p>
 
 _____________________________________________________________________________________________________________________________
+📌 Journey Snapshot
 
+🚀 I learn by building new and different projects
+🌐 I explore and use open-source resources to improve
+⚛️ Currently focusing on React and API Integration
+📈 Constantly upgrading my skills step by step
+
+_____________________________________________________________________________________________________________________________
+🌐 Connect with Me
+
+📧 Email: <a href="mailto:trivedikhushi510@gmail.com">📧 Email</a>
+💼 LinkedIn: https://www.linkedin.com/in/khushi-trivedi-485092323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+_____________________________________________________________________________________________________________________________
+🙌 Thanks for Visiting
+
+✨ Thanks for checking out my profile!
+I’m always open to learning, collaborating, and building amazing projects.
+Let’s connect and grow together 🚀
+
+_____________________________________________________________________________________________________________________________
+💭 Quote
+
+✨ "I don't stop when it's hard, I stop when it's done."
 
 
