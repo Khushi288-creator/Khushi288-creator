@@ -53,17 +53,8 @@
 - ⚡ Shipped within hackathon time constraints
 - 🎨 UI design + Manifest v3 config
 - 🌐 Cross-browser tested
-- 🏆 Part of winning hackathon team
 
 [![View Repo](https://img.shields.io/badge/Chrome%20Extension-View%20Repo-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/Khushi288-creator/web-extension-hackathone)
-
-### 🗃️ Student Management System
-**PHP 8 · MySQL · JavaScript**
-
-- CRUD + real-time search + multi-field filter
-- JS client-side + PHP server-side validation
-
-[![View Repo](https://img.shields.io/badge/PHP%20Project-View%20Repo-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/Khushi288-creator)
 
 </td>
 </tr>
@@ -77,12 +68,16 @@
 
 **Frontend**
 
+**Frontend**
+
 ![React](https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-FF6B35?style=for-the-badge&logo=react&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend**
 
@@ -104,9 +99,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 **Currently Learning**
 
@@ -121,13 +113,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khushi288-creator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi288-creator&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
 
 <div align="center">
 
@@ -158,7 +143,7 @@ I don't stop when it's hard. I stop when it's done.
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-trivedi-485092323)
 [![Email](https://img.shields.io/badge/Hire%20Me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trivedikhushi510@gmail.com)
 
-📍 Kalol, Gujarat, India
+📍 Kalol, Gandhinagar, Gujarat, India
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
