@@ -12,7 +12,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=React+19+%2B+TypeScript+Developer;Node.js+%2B+Prisma+ORM+Builder;Hackathon+Participant+2026;CGPA+9.82+%E2%86%91+%7C+Gandhinavar+University;I+learn+by+building+real+things." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=React+19+%2B+TypeScript+Developer;Node.js+%2B+Prisma+ORM+Builder;Hackathon+Participant+2026;CGPA+9.82+%E2%86%91+%7C+Gandhinagar+University;I+learn+by+building+real+things." alt="Typing SVG" />
 
 <br/>
 
